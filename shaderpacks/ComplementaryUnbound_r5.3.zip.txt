@@ -1,0 +1,3 @@
+#Wed Nov 27 05:52:56 CST 2024
+GENERATED_NORMALS=true
+shadowDistance=96.0

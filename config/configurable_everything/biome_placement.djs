@@ -15,22 +15,7 @@ addedBiomes: []
 removedBiomes: [
   {
     dimension: 'minecraft:overworld'
-    biomes: [
-      'terralith:alpha_islands'
-      'terralith:alpha_islands_winter'
-      'terralith:amethyst_canyon'
-      'terralith:amethyst_rainforest'
-      'terralith:cave/thermal_caves'
-      'terralith:cave/mantle_caves'
-      'terralith:warm_river'
-      'terralith:desert_oasis'
-      'terralith:cave/deep_caves'
-      'terralith:cave/frostfire_caves'
-      'terralith:basalt_cliffs'
-      'terralith:moonlight_grove'
-      'terralith:lavender_forest'
-      'terralith:sakura_grove'
-    ]
+    biomes: []
   }
   {
     dimension: 'minecraft:the_nether'

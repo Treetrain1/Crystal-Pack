@@ -3,7 +3,7 @@
 // Warning: It is important to check the contents of each config before enabling them here.
 // 
 biome: false
-biome_placement: true
+biome_placement: false
 block: false
 datafixer: false
 entity: false
@@ -11,7 +11,7 @@ fluid: false
 game: false
 gravity: false
 item: false
-loot: true
+loot: false
 registry: false
 screen_shake: true
 // Requires Fabric Kotlin Extensions
@@ -19,7 +19,7 @@ scripting: false
 sculk_spreading: false
 // Client only
 splash_text: true
-structure: true
+structure: false
 surface_rule: false
 tag: false
 world: false

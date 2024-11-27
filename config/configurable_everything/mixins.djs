@@ -18,5 +18,6 @@ sculk_spreading: true
 // Client only
 splash_text: true
 structure: true
+tag: true
 world: true
 world_client: false

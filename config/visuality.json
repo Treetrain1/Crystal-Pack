@@ -1,5 +1,8 @@
 {
   "slimeEnabled": true,
+  "slimeColor": {
+    "field_24364": 8978297
+  },
   "chargeEnabled": true,
   "sparkleEnabled": true,
   "soulEnabled": true,

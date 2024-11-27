@@ -1,0 +1,50 @@
+/dhconfig numberOfFileHandlerThreads
+/dhconfig numberOfFileHandlerThreads 4
+/dhconfig numberOfLodBuilderThreads
+/dhconfig numberOfLodBuilderThreads 4
+/dhconfig numberOfLodBuilderThreads 2
+/dhconfig numberOfFileHandlerThreads 2
+/dhconfig numberOfNetworkCompressionThreads 2
+/dhconfig numberOfWorldGenerationThreads 2
+/reload
+/time set day
+/locate structure minecraft:stronghold
+/tp @s -272 ~ 1648
+/setblock ~ ~ ~ endrem:ancient_portal_frame
+/locate biome wilderwild:jellyfish_caves
+/tp @s 255 -43 -555
+/weather clear
+/time set day
+/execute in minecraft:the_end run tp 0 100 0
+/give Treetrain1 bow
+/give Treetrain1 arrow 128
+/execute in minecraft:the_end run tp 0 100 0
+/give Treetrain1 arrow 128
+/execute in minecraft:the_end run tp 0 100 0
+/kill @e[type=minecraft:area_effect_cloud]
+/give Treetrain1 arrow 128
+/give Treetrain1 minecraft:spyglass
+/time set day
+/windoverride
+/windoverride 10 10 10
+/windoverride true
+/windoverride false
+/windoverride true
+/windoverride false
+/windoverride true
+/windoverride false
+/execute in minecraft:the_end run tp 0 100 0
+/summon creeper
+/locate biome wilderwild:jellyfish_caves
+/tp @s -1838 -11 2469
+/tp ~ ~1000 ~
+/give @s minecraft:water_bucket
+/tp ~ ~1000 ~
+/give @s minecraft:water_bucket
+/execute in minecraft:the_end run tp 0 100 0
+/bigglobe:locate largest 200
+/locate structure minecraft:ancient_city
+/locate structure bigglobe:vanilla/ancient_city
+/tp @s -2863 ~ -1891
+/time set 12000
+/time set day

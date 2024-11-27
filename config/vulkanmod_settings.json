@@ -1,0 +1,16 @@
+{
+  "frameQueueSize": 2,
+  "videoMode": {
+    "width": 3840,
+    "height": 2160,
+    "bitDepth": 8,
+    "refreshRate": 60
+  },
+  "windowedFullscreen": false,
+  "advCulling": 2,
+  "indirectDraw": false,
+  "uniqueOpaqueLayer": true,
+  "entityCulling": true,
+  "device": -1,
+  "ambientOcclusion": 1
+}

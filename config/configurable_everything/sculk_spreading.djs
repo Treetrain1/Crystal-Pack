@@ -6,7 +6,6 @@ growths: [
     block: {
       Properties: {
         waterlogged: 'false'
-        souls_taken: '0'
         shrieking: 'false'
         can_summon: 'true'
       }
@@ -19,7 +18,6 @@ growths: [
     block: {
       Properties: {
         waterlogged: 'false'
-        souls_taken: '0'
         shrieking: 'false'
         can_summon: 'false'
       }
@@ -34,7 +32,6 @@ growths: [
         waterlogged: 'false'
         sculk_sensor_phase: 'inactive'
         power: '0'
-        hiccupping: 'false'
       }
       Name: 'minecraft:sculk_sensor'
     }

@@ -1,7 +1,7 @@
 {
 	"biomeGeneration": {
 		"generateCypressWetlands": true,
-		"generateJellyfishCaves": true,
+		"generateMesogleaCaves": true,
 		"generateMixedForest": true,
 		"generateOasis": true,
 		"generateWarmRiver": true,
@@ -27,6 +27,8 @@
 		"generateSnowyDyingMixedForest": true,
 		"generateMagmaticCaves": true,
 		"generateFrozenCaves": true,
+		"generateMapleForest": true,
+		"generateSparseForest": true,
 	},
 	"biomePlacement": {
 		"modifyWindsweptSavannaPlacement": true,
@@ -53,5 +55,8 @@
 	"surfaceDecoration": true,
 	"snowBelowTrees": true,
 	"surfaceTransitions": true,
+	"addStoneChests": true,
 	"newWitchHuts": true,
+	"decayTrailRuins": true,
+	"newDesertVillages": true,
 }

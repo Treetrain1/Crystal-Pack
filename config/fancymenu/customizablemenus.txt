@@ -312,9 +312,6 @@ net.minecraft.class_524 {
 net.minecraft.class_526 {
 }
 
-net.minecraft.class_442 {
-}
-
 net.minecraft.class_525 {
 }
 
@@ -325,5 +322,8 @@ net.minecraft.class_429 {
 }
 
 net.minecraft.class_4189 {
+}
+
+net.minecraft.class_442 {
 }
 

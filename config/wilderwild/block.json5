@@ -12,6 +12,7 @@
 		"gravelSounds": true,
 		"leafSounds": true,
 		"lilyPadSounds": true,
+		"melonSounds": true,
 		"mushroomBlockSounds": true,
 		"podzolSounds": true,
 		"reinforcedDeepslateSounds": true,
@@ -48,5 +49,5 @@
 	"logHollowing": true,
 	"cactusPlacement": true,
 	"frostedIceCracking": true,
-	"dripleafPowering": true,
+	"thickBigFungusGrowth": false,
 }

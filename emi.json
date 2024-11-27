@@ -1,0 +1,24 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:spruce_slab",
+    "item:minecraft:ender_eye"
+  ],
+  "craft_history": [
+    "minecraft:oak_planks",
+    "minecraft:acacia_planks",
+    "minecraft:stone_pickaxe",
+    "minecraft:stick",
+    "minecraft:white_bed",
+    "minecraft:wooden_axe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:crafting_table"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

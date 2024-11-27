@@ -15,10 +15,9 @@ attackCooldownHandOffset = 0.0
 showDamageTintOnArmor = false
 alternativeBobbing = false
 onlyShowShieldWhenBlocking = false
+firstPersonHandOpacityOnInvisibility = 0.3
 
 [misc]
-fixCooldownDesync = true
-showModButton = false
 fixLocalPlayerHandling = true
 force100PercentRecharge = false
 showOwnNameInThirdPerson = false

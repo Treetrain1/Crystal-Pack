@@ -1,0 +1,10 @@
+{
+  "testEnum": "foo",
+  "testString": "foo",
+  "testBool": true,
+  "testInt": 1,
+  "testDouble": 0.0,
+
+  "configNameDisplayColour": "#00DFFF",
+  "grayFormattingColour": "#BEC7D2"
+}

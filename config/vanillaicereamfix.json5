@@ -4,8 +4,6 @@
 		"profilerImprovements": true
 	},
 	"bugFixes": {
-		// Disables loading the spawn chunks when the server starts. This drastically reduces world loading times. As a side effect, invisible chunks may appear for the first few seconds when creating a new world
-		"disableInitialChunkLoad": true,
 		// Sets the mob cap for phantoms. Setting this to any negative number will disable phantom check
 		"phantomMobCap": -1,
 		// Prevent placing sugarcane underwater.
@@ -22,9 +20,5 @@
 		"maxAnvilLevel": 40,
 		// Full disables the anvil level mod. Enabling this can crash your game with certain mods
 		"useAnvilMod": false
-	},
-	"antiCheat": {
-		// Prevents players from stepping up one block (stepping does not reduce hunger)
-		"fixStepHeight": true
 	}
 }

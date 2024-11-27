@@ -20,6 +20,7 @@
 		"jellyfishSpawnCap": 30,
 		"jellyfishHiding": true,
 		"jellyfishTentacles": 8,
+		"planeTentacles": true,
 	},
 	"crab": {
 		"spawnCrabs": true,

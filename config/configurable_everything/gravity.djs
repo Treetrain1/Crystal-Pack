@@ -15,7 +15,7 @@ gravityBelts: [
       }
       {
         minY: 500
-        maxY: Infinity
+        maxY: infinity
         gravityFunction: {
           gravity: [
             0
